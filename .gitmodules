@@ -1,0 +1,3 @@
+[submodule "SingleNeuron"]
+	path = SingleNeuron
+	url = https://github.com/AhmetNeoSari/SingleNeuron
