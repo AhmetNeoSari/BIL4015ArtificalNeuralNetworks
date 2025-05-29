@@ -1,3 +1,6 @@
 [submodule "SingleNeuron"]
 	path = SingleNeuron
 	url = https://github.com/AhmetNeoSari/SingleNeuron
+[submodule "SingleLayerMultiNeuron"]
+	path = SingleLayerMultiNeuron
+	url = https://github.com/AhmetNeoSari/SingleLayerMultiNeuronFormApp
